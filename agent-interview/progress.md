@@ -1,6 +1,6 @@
 # 学习进度
 
-next_day: 2
+next_day: 3
 cycle: 1
 last_run: 2026-09-30
 
@@ -22,3 +22,4 @@ last_run: 2026-09-30
 | Day | 日期 | 主题 | 笔记 |
 |---|---|---|---|
 | 1 | 2026-09-30 | LLM 基础 | [day-01.md](notes/day-01.md) |
+| 2 | 2026-09-30 | Prompt 工程 | [day-02.md](notes/day-02.md) |
