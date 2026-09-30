@@ -7,7 +7,7 @@
 
 内容以 LangChain 和 Claude（Anthropic）的官方资料为准，每篇笔记末尾都会列出引用链接。
 - LangChain 官方：docs.langchain.com、python.langchain.com、langchain-ai.github.io（LangGraph）、blog.langchain.com、github.com/langchain-ai
-- Claude / Anthropic 官方：docs.claude.com、docs.anthropic.com、anthropic.com/engineering、anthropic.com/research、github.com/anthropics
+- Claude / Anthropic 官方：platform.claude.com、docs.claude.com、docs.anthropic.com、anthropic.com/engineering、anthropic.com/research、github.com/anthropics
 - MCP 官方规范：modelcontextprotocol.io（由 Anthropic 发起）
 
 这两家覆盖不到的主题（如 A2A、AutoGen、CrewAI、DPO），使用该项目自己的官方文档或原始论文，并在笔记里标注「非 LangChain/Claude 来源」。
