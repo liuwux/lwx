@@ -1,0 +1,10 @@
+# Table of contents
+
+* [首页](README.md)
+* [课程表](curriculum.md)
+* [学习进度](progress.md)
+
+## 第一轮
+
+* [Day 01 · LLM 基础](notes/day-01.md)
+* [Day 02 · Prompt 工程](notes/day-02.md)
