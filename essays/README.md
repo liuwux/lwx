@@ -4,4 +4,4 @@
 
 ## 文章
 
-1. [随笔之一：名义上的软件需求](01-nominal-software-requirements/README.md)——软件需求为什么常常名不副实，以及怎么让它由名变实。
+1. [随笔之一：名义上的软件需求](01-nominal-software-requirements.md)——软件需求为什么常常名不副实，以及怎么让它由名变实。
