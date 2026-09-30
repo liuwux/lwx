@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 1
+next_day: 2
 cycle: 1
-last_run: （尚未运行）
+last_run: 2026-09-30
 
 ## 你的反馈
 
@@ -21,3 +21,4 @@ last_run: （尚未运行）
 
 | Day | 日期 | 主题 | 笔记 |
 |---|---|---|---|
+| 1 | 2026-09-30 | LLM 基础 | [day-01.md](notes/day-01.md) |
