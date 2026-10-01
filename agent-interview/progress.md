@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 3
+next_day: 4
 cycle: 1
-last_run: 2026-09-30
+last_run: 2026-10-01
 
 ## 你的反馈
 
@@ -23,3 +23,4 @@ last_run: 2026-09-30
 |---|---|---|---|
 | 1 | 2026-09-30 | LLM 基础 | [day-01.md](notes/day-01.md) |
 | 2 | 2026-09-30 | Prompt 工程 | [day-02.md](notes/day-02.md) |
+| 3 | 2026-10-01 | 什么是 Agent | [day-03.md](notes/day-03.md) |

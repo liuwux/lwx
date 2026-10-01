@@ -8,3 +8,4 @@
 
 * [Day 01 · LLM 基础](notes/day-01.md)
 * [Day 02 · Prompt 工程](notes/day-02.md)
+* [Day 03 · 什么是 Agent](notes/day-03.md)
