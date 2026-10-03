@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 5
+next_day: 6
 cycle: 1
-last_run: 2026-10-02
+last_run: 2026-10-03
 
 ## 你的反馈
 
@@ -25,3 +25,4 @@ last_run: 2026-10-02
 | 2 | 2026-09-30 | Prompt 工程 | [day-02.md](notes/day-02.md) |
 | 3 | 2026-10-01 | 什么是 Agent | [day-03.md](notes/day-03.md) |
 | 4 | 2026-10-02 | Function Calling / Tool Use | [day-04.md](notes/day-04.md) |
+| 5 | 2026-10-03 | 工具设计 | [day-05.md](notes/day-05.md) |
