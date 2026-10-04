@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 6
+next_day: 7
 cycle: 1
-last_run: 2026-10-03
+last_run: 2026-10-04
 
 ## 你的反馈
 
@@ -26,3 +26,4 @@ last_run: 2026-10-03
 | 3 | 2026-10-01 | 什么是 Agent | [day-03.md](notes/day-03.md) |
 | 4 | 2026-10-02 | Function Calling / Tool Use | [day-04.md](notes/day-04.md) |
 | 5 | 2026-10-03 | 工具设计 | [day-05.md](notes/day-05.md) |
+| 6 | 2026-10-04 | ReAct | [day-06.md](notes/day-06.md) |
