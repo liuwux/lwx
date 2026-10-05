@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 7
+next_day: 8
 cycle: 1
-last_run: 2026-10-04
+last_run: 2026-10-05
 
 ## 你的反馈
 
@@ -27,3 +27,4 @@ last_run: 2026-10-04
 | 4 | 2026-10-02 | Function Calling / Tool Use | [day-04.md](notes/day-04.md) |
 | 5 | 2026-10-03 | 工具设计 | [day-05.md](notes/day-05.md) |
 | 6 | 2026-10-04 | ReAct | [day-06.md](notes/day-06.md) |
+| 7 | 2026-10-05 | 规划 | [day-07.md](notes/day-07.md) |
