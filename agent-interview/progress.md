@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 8
+next_day: 9
 cycle: 1
-last_run: 2026-10-05
+last_run: 2026-10-06
 
 ## 你的反馈
 
@@ -28,3 +28,4 @@ last_run: 2026-10-05
 | 5 | 2026-10-03 | 工具设计 | [day-05.md](notes/day-05.md) |
 | 6 | 2026-10-04 | ReAct | [day-06.md](notes/day-06.md) |
 | 7 | 2026-10-05 | 规划 | [day-07.md](notes/day-07.md) |
+| 8 | 2026-10-06 | 反思与自我纠错 | [day-08.md](notes/day-08.md) |

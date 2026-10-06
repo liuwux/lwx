@@ -13,3 +13,4 @@
 * [Day 05 · 工具设计](notes/day-05.md)
 * [Day 06 · ReAct](notes/day-06.md)
 * [Day 07 · 规划](notes/day-07.md)
+* [Day 08 · 反思与自我纠错](notes/day-08.md)
