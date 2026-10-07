@@ -14,3 +14,4 @@
 * [Day 06 · ReAct](notes/day-06.md)
 * [Day 07 · 规划](notes/day-07.md)
 * [Day 08 · 反思与自我纠错](notes/day-08.md)
+* [Day 09 · 记忆机制](notes/day-09.md)
