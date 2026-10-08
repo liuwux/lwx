@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 10
+next_day: 11
 cycle: 1
-last_run: 2026-10-07
+last_run: 2026-10-08
 
 ## 你的反馈
 
@@ -30,3 +30,4 @@ last_run: 2026-10-07
 | 7 | 2026-10-05 | 规划 | [day-07.md](notes/day-07.md) |
 | 8 | 2026-10-06 | 反思与自我纠错 | [day-08.md](notes/day-08.md) |
 | 9 | 2026-10-07 | 记忆机制 | [day-09.md](notes/day-09.md) |
+| 10 | 2026-10-08 | RAG 基础 | [day-10.md](notes/day-10.md) |
