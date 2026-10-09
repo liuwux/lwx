@@ -254,6 +254,45 @@ print("最终 :", [d.page_content for d in retrieve(q)])
 2. **中文直接用默认 BM25**：默认按空格分词，中文整句变成一个 token，BM25 基本失效。要配分词（jieba 或 n-gram）。
 3. **把 RRF 当成"分数平均"**：RRF 丢掉了原始分数，只用排名——这正是它稳健的原因，但也意味着"某一路分数特别高"的信息会丢失；需要保留分数信息时要用归一化后加权求和，并认真标定。
 
+## 手写练习（禁用 AI，约 20 分钟）
+
+> 交互版（关闭粘贴、逐行核对、自动计时）：在 Claude 里打开「手写练习 Day 11」页面。
+
+**今日片段：加权 RRF 融合**（15 行）
+
+```python
+def weighted_rrf(rank_lists, weights, c=60):
+    # 每一路检索结果都要有一个对应的权重，数量不一致就报错
+    if len(rank_lists) != len(weights):
+        raise ValueError("rank_lists 和 weights 数量必须相同")
+    # 准备一个字典，记录每个文档的累计融合分数
+    scores = {}
+    # 同时遍历每一路结果和它的权重
+    for ranked, w in zip(rank_lists, weights):
+        # 排名从 1 开始数，第一名的 rank 是 1
+        for rank, doc_id in enumerate(ranked, start=1):
+            # 这一路贡献 w / (c + rank)，同一文档在多路出现就累加
+            scores[doc_id] = scores.get(doc_id, 0.0) + w / (c + rank)
+    # 按融合分数从高到低排序，返回文档 id 列表
+    return sorted(scores, key=scores.get, reverse=True)
+
+print(weighted_rrf([[2, 7, 6], [6, 2, 7]], [1, 1], c=1))  # 期望 [2, 6, 7]
+```
+
+**三步走**
+1. 看着上面的注释和代码，先手敲一遍全部注释，再手敲一遍代码（不复制粘贴）。
+2. 不看任何东西，凭记忆手敲注释，再与原文核对。
+3. 只看自己写的注释，手敲代码，再与原文核对，并跑一下最后的 `print`。
+
+**容易写错的地方**
+- `enumerate` 忘了 `start=1`：第一名 rank 变成 0，和 RRF 定义对不上。
+- 用 `=` 而不是累加：同一文档在两路都出现时，后一路覆盖前一路。
+- `sorted` 漏了 `reverse=True`：结果变成从低到高。
+
+**进阶片段（可选）**：两阶段检索 `retrieve()`（改写 → 混合检索 → `setdefault` 去重 → 用原问题 `q` 重排），见上面代码示例。
+
+**昨日复习（只做第③步）**：Day 10 的 `recall_at_k` 与 `mrr`。注意 MRR 找到第一个命中后要 `break`，recall 的分母是正确文档总数而不是 k。
+
 ## 动手练习（30 分钟）
 
 在上面代码基础上：① 写 6 个问题（3 个含故障码/数字等精确词，3 个纯口语），标注每题应命中的 `id`；② 分别计算 **BM25-only、向量-only、混合（0.5/0.5）、混合（0.2/0.8）** 四种配置的 recall@2 和 MRR；③ 再打开 `rewrite()` 和 `rerank()`，看 MRR 提升多少、单次查询延迟增加多少（`time.perf_counter()`），写一句结论："在我的数据上，最值得加的是 ___"。
