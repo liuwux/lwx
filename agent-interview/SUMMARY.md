@@ -16,3 +16,4 @@
 * [Day 08 · 反思与自我纠错](notes/day-08.md)
 * [Day 09 · 记忆机制](notes/day-09.md)
 * [Day 10 · RAG 基础](notes/day-10.md)
+* [Day 11 · RAG 进阶](notes/day-11.md)
