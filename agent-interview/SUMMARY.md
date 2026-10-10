@@ -17,3 +17,4 @@
 * [Day 09 · 记忆机制](notes/day-09.md)
 * [Day 10 · RAG 基础](notes/day-10.md)
 * [Day 11 · RAG 进阶](notes/day-11.md)
+* [Day 12 · Agentic RAG](notes/day-12.md)

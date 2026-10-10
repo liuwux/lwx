@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 12
+next_day: 13
 cycle: 1
-last_run: 2026-10-09
+last_run: 2026-10-10
 
 ## 你的反馈
 
@@ -36,3 +36,4 @@ last_run: 2026-10-09
 | 9 | 2026-10-07 | 记忆机制 | [day-09.md](notes/day-09.md) |
 | 10 | 2026-10-08 | RAG 基础 | [day-10.md](notes/day-10.md) |
 | 11 | 2026-10-09 | RAG 进阶 | [day-11.md](notes/day-11.md) |
+| 12 | 2026-10-10 | Agentic RAG | [day-12.md](notes/day-12.md) |
