@@ -18,3 +18,4 @@
 * [Day 10 · RAG 基础](notes/day-10.md)
 * [Day 11 · RAG 进阶](notes/day-11.md)
 * [Day 12 · Agentic RAG](notes/day-12.md)
+* [Day 13 · 上下文工程](notes/day-13.md)

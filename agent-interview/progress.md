@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 13
+next_day: 14
 cycle: 1
-last_run: 2026-10-10
+last_run: 2026-10-11
 
 ## 你的反馈
 
@@ -37,3 +37,4 @@ last_run: 2026-10-10
 | 10 | 2026-10-08 | RAG 基础 | [day-10.md](notes/day-10.md) |
 | 11 | 2026-10-09 | RAG 进阶 | [day-11.md](notes/day-11.md) |
 | 12 | 2026-10-10 | Agentic RAG | [day-12.md](notes/day-12.md) |
+| 13 | 2026-10-11 | 上下文工程 | [day-13.md](notes/day-13.md) |
