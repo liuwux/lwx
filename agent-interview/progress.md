@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 15
+next_day: 16
 cycle: 1
-last_run: 2026-10-12
+last_run: 2026-10-13
 
 ## 你的反馈
 
@@ -39,3 +39,4 @@ last_run: 2026-10-12
 | 12 | 2026-10-10 | Agentic RAG | [day-12.md](notes/day-12.md) |
 | 13 | 2026-10-11 | 上下文工程 | [day-13.md](notes/day-13.md) |
 | 14 | 2026-10-12 | MCP 协议 | [day-14.md](notes/day-14.md) |
+| 15 | 2026-10-13 | Agent 间通信 | [day-15.md](notes/day-15.md) |
