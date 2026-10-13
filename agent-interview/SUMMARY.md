@@ -1,6 +1,6 @@
 # Table of contents
 
-* [首页](README.md)
+* [首页](../)
 * [课程表](curriculum.md)
 * [学习进度](progress.md)
 
