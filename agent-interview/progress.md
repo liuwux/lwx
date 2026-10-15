@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 17
+next_day: 18
 cycle: 1
-last_run: 2026-10-14
+last_run: 2026-10-15
 
 ## 你的反馈
 
@@ -41,3 +41,4 @@ last_run: 2026-10-14
 | 14 | 2026-10-12 | MCP 协议 | [day-14.md](notes/day-14.md) |
 | 15 | 2026-10-13 | Agent 间通信 | [day-15.md](notes/day-15.md) |
 | 16 | 2026-10-14 | 多智能体架构 | [day-16.md](notes/day-16.md) |
+| 17 | 2026-10-15 | LangGraph | [day-17.md](notes/day-17.md) |
