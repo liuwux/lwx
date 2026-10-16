@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 18
+next_day: 19
 cycle: 1
-last_run: 2026-10-15
+last_run: 2026-10-16
 
 ## 你的反馈
 
@@ -42,3 +42,4 @@ last_run: 2026-10-15
 | 15 | 2026-10-13 | Agent 间通信 | [day-15.md](notes/day-15.md) |
 | 16 | 2026-10-14 | 多智能体架构 | [day-16.md](notes/day-16.md) |
 | 17 | 2026-10-15 | LangGraph | [day-17.md](notes/day-17.md) |
+| 18 | 2026-10-16 | 框架对比 | [day-18.md](notes/day-18.md) |
