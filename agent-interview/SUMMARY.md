@@ -24,3 +24,4 @@
 * [Day 16 · 多智能体架构](notes/day-16.md)
 * [Day 17 · LangGraph](notes/day-17.md)
 * [Day 18 · 框架对比](notes/day-18.md)
+* [Day 19 · Code Agent 与 Computer Use](notes/day-19.md)
