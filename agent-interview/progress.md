@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 20
+next_day: 21
 cycle: 1
-last_run: 2026-10-17
+last_run: 2026-10-18
 
 ## 你的反馈
 
@@ -44,3 +44,4 @@ last_run: 2026-10-17
 | 17 | 2026-10-15 | LangGraph | [day-17.md](notes/day-17.md) |
 | 18 | 2026-10-16 | 框架对比 | [day-18.md](notes/day-18.md) |
 | 19 | 2026-10-17 | Code Agent 与 Computer Use | [day-19.md](notes/day-19.md) |
+| 20 | 2026-10-18 | 结构化输出与校验 | [day-20.md](notes/day-20.md) |
