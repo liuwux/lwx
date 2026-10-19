@@ -26,3 +26,4 @@
 * [Day 18 · 框架对比](notes/day-18.md)
 * [Day 19 · Code Agent 与 Computer Use](notes/day-19.md)
 * [Day 20 · 结构化输出与校验](notes/day-20.md)
+* [Day 21 · 评测](notes/day-21.md)
