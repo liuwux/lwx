@@ -28,3 +28,4 @@
 * [Day 20 · 结构化输出与校验](notes/day-20.md)
 * [Day 21 · 评测](notes/day-21.md)
 * [Day 22 · 可观测性](notes/day-22.md)
+* [Day 23 · 安全](notes/day-23.md)

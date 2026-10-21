@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 23
+next_day: 24
 cycle: 1
-last_run: 2026-10-20
+last_run: 2026-10-21
 
 ## 你的反馈
 
@@ -47,3 +47,4 @@ last_run: 2026-10-20
 | 20 | 2026-10-18 | 结构化输出与校验 | [day-20.md](notes/day-20.md) |
 | 21 | 2026-10-19 | 评测 | [day-21.md](notes/day-21.md) |
 | 22 | 2026-10-20 | 可观测性 | [day-22.md](notes/day-22.md) |
+| 23 | 2026-10-21 | 安全 | [day-23.md](notes/day-23.md) |
