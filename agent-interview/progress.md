@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 24
+next_day: 25
 cycle: 1
-last_run: 2026-10-21
+last_run: 2026-10-22
 
 ## 你的反馈
 
@@ -48,3 +48,4 @@ last_run: 2026-10-21
 | 21 | 2026-10-19 | 评测 | [day-21.md](notes/day-21.md) |
 | 22 | 2026-10-20 | 可观测性 | [day-22.md](notes/day-22.md) |
 | 23 | 2026-10-21 | 安全 | [day-23.md](notes/day-23.md) |
+| 24 | 2026-10-22 | 护栏与人在回路 | [day-24.md](notes/day-24.md) |

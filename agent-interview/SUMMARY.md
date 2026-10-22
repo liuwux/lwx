@@ -29,3 +29,4 @@
 * [Day 21 · 评测](notes/day-21.md)
 * [Day 22 · 可观测性](notes/day-22.md)
 * [Day 23 · 安全](notes/day-23.md)
+* [Day 24 · 护栏与人在回路](notes/day-24.md)
