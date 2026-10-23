@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 25
+next_day: 26
 cycle: 1
-last_run: 2026-10-22
+last_run: 2026-10-23
 
 ## 你的反馈
 
@@ -49,3 +49,4 @@ last_run: 2026-10-22
 | 22 | 2026-10-20 | 可观测性 | [day-22.md](notes/day-22.md) |
 | 23 | 2026-10-21 | 安全 | [day-23.md](notes/day-23.md) |
 | 24 | 2026-10-22 | 护栏与人在回路 | [day-24.md](notes/day-24.md) |
+| 25 | 2026-10-23 | 成本与延迟优化 | [day-25.md](notes/day-25.md) |

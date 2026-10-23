@@ -30,3 +30,4 @@
 * [Day 22 · 可观测性](notes/day-22.md)
 * [Day 23 · 安全](notes/day-23.md)
 * [Day 24 · 护栏与人在回路](notes/day-24.md)
+* [Day 25 · 成本与延迟优化](notes/day-25.md)
