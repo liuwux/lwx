@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 26
+next_day: 27
 cycle: 1
-last_run: 2026-10-23
+last_run: 2026-10-24
 
 ## 你的反馈
 
@@ -50,3 +50,4 @@ last_run: 2026-10-23
 | 23 | 2026-10-21 | 安全 | [day-23.md](notes/day-23.md) |
 | 24 | 2026-10-22 | 护栏与人在回路 | [day-24.md](notes/day-24.md) |
 | 25 | 2026-10-23 | 成本与延迟优化 | [day-25.md](notes/day-25.md) |
+| 26 | 2026-10-24 | 部署与生产化 | [day-26.md](notes/day-26.md) |
