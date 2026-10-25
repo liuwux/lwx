@@ -32,3 +32,4 @@
 * [Day 24 · 护栏与人在回路](notes/day-24.md)
 * [Day 25 · 成本与延迟优化](notes/day-25.md)
 * [Day 26 · 部署与生产化](notes/day-26.md)
+* [Day 27 · 模型适配](notes/day-27.md)
