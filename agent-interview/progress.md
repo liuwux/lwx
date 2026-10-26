@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 28
+next_day: 29
 cycle: 1
-last_run: 2026-10-25
+last_run: 2026-10-26
 
 ## 你的反馈
 
@@ -52,3 +52,4 @@ last_run: 2026-10-25
 | 25 | 2026-10-23 | 成本与延迟优化 | [day-25.md](notes/day-25.md) |
 | 26 | 2026-10-24 | 部署与生产化 | [day-26.md](notes/day-26.md) |
 | 27 | 2026-10-25 | 模型适配 | [day-27.md](notes/day-27.md) |
+| 28 | 2026-10-26 | 端侧与移动端 Agent | [day-28.md](notes/day-28.md) |
