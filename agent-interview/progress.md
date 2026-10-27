@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 29
+next_day: 30
 cycle: 1
-last_run: 2026-10-26
+last_run: 2026-10-27
 
 ## 你的反馈
 
@@ -53,3 +53,4 @@ last_run: 2026-10-26
 | 26 | 2026-10-24 | 部署与生产化 | [day-26.md](notes/day-26.md) |
 | 27 | 2026-10-25 | 模型适配 | [day-27.md](notes/day-27.md) |
 | 28 | 2026-10-26 | 端侧与移动端 Agent | [day-28.md](notes/day-28.md) |
+| 29 | 2026-10-27 | 系统设计题（一）：企业客服 Agent | [day-29.md](notes/day-29.md) |
