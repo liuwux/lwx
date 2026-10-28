@@ -23,4 +23,5 @@
 * [随笔](essays/README.md)
   * [随笔之一：名义上的软件需求](essays/01-nominal-software-requirements.md)
   * [AI 时代最稀缺的不是生成，是看懂](essays/02-ai-era-understanding.md)
+  * [AI Agent 驱动的企业组织变革（2026）：失败机制、组织经济学与成功条件](essays/03-ai-agent-org-transformation.md)
   * [Table of contents](essays/SUMMARY.md)
