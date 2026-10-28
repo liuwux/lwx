@@ -35,3 +35,4 @@
 * [Day 27 · 模型适配](notes/day-27.md)
 * [Day 28 · 端侧与移动端 Agent](notes/day-28.md)
 * [Day 29 · 系统设计题（一）：企业客服 Agent](notes/day-29.md)
+* [Day 30 · 系统设计题（二）+ 总复习：Coding / 深度研究 Agent](notes/day-30.md)

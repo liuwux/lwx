@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 30
-cycle: 1
-last_run: 2026-10-27
+next_day: 1
+cycle: 2
+last_run: 2026-10-28
 
 ## 你的反馈
 
@@ -54,3 +54,4 @@ last_run: 2026-10-27
 | 27 | 2026-10-25 | 模型适配 | [day-27.md](notes/day-27.md) |
 | 28 | 2026-10-26 | 端侧与移动端 Agent | [day-28.md](notes/day-28.md) |
 | 29 | 2026-10-27 | 系统设计题（一）：企业客服 Agent | [day-29.md](notes/day-29.md) |
+| 30 | 2026-10-28 | 系统设计题（二）+ 总复习：Coding / 深度研究 Agent | [day-30.md](notes/day-30.md) |
