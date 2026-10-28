@@ -5,4 +5,5 @@
 ## 文章
 
 1. [随笔之一：名义上的软件需求](01-nominal-software-requirements.md)——软件需求为什么常常名不副实，以及怎么让它由名变实。
-2. [AI Agent 驱动的企业组织变革（2026）](03-ai-agent-org-transformation.md)——Agent 放大了产出，却没有同比放大交付；先按预期缩编、再验证效果，是代价最高的失败模式。
+2. [AI 时代最稀缺的不是生成，是看懂](02-ai-era-understanding.md)——AI 降低的是表达成本，不是判断成本；人与 AI 之间的三个信息瓶颈，靠为每个场景选对信息形式来突破。
+3. [AI Agent 驱动的企业组织变革（2026）](03-ai-agent-org-transformation.md)——Agent 放大了产出，却没有同比放大交付；先按预期缩编、再验证效果，是代价最高的失败模式。
