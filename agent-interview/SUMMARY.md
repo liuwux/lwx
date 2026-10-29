@@ -36,3 +36,7 @@
 * [Day 28 · 端侧与移动端 Agent](notes/day-28.md)
 * [Day 29 · 系统设计题（一）：企业客服 Agent](notes/day-29.md)
 * [Day 30 · 系统设计题（二）+ 总复习：Coding / 深度研究 Agent](notes/day-30.md)
+
+## 第二轮
+
+* [Day 01 · LLM 基础（第二轮）](notes/c2-day-01.md)
