@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 3
+next_day: 4
 cycle: 2
-last_run: 2026-10-30
+last_run: 2026-10-31
 
 ## 你的反馈
 
@@ -57,3 +57,4 @@ last_run: 2026-10-30
 | 30 | 2026-10-28 | 系统设计题（二）+ 总复习：Coding / 深度研究 Agent | [day-30.md](notes/day-30.md) |
 | 1 | 2026-10-29 | LLM 基础（第二轮） | [c2-day-01.md](notes/c2-day-01.md) |
 | 2 | 2026-10-30 | Prompt 工程（第二轮） | [c2-day-02.md](notes/c2-day-02.md) |
+| 3 | 2026-10-31 | 什么是 Agent（第二轮） | [c2-day-03.md](notes/c2-day-03.md) |
