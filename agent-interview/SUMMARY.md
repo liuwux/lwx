@@ -42,3 +42,4 @@
 * [Day 01 · LLM 基础（第二轮）](notes/c2-day-01.md)
 * [Day 02 · Prompt 工程（第二轮）](notes/c2-day-02.md)
 * [Day 03 · 什么是 Agent（第二轮）](notes/c2-day-03.md)
+* [Day 04 · Function Calling / Tool Use（第二轮）](notes/c2-day-04.md)

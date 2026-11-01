@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 4
+next_day: 5
 cycle: 2
-last_run: 2026-10-31
+last_run: 2026-11-01
 
 ## 你的反馈
 
@@ -58,3 +58,4 @@ last_run: 2026-10-31
 | 1 | 2026-10-29 | LLM 基础（第二轮） | [c2-day-01.md](notes/c2-day-01.md) |
 | 2 | 2026-10-30 | Prompt 工程（第二轮） | [c2-day-02.md](notes/c2-day-02.md) |
 | 3 | 2026-10-31 | 什么是 Agent（第二轮） | [c2-day-03.md](notes/c2-day-03.md) |
+| 4 | 2026-11-01 | Function Calling / Tool Use（第二轮） | [c2-day-04.md](notes/c2-day-04.md) |
