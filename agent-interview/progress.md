@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 6
+next_day: 7
 cycle: 2
-last_run: 2026-11-02
+last_run: 2026-11-03
 
 ## 你的反馈
 
@@ -60,3 +60,4 @@ last_run: 2026-11-02
 | 3 | 2026-10-31 | 什么是 Agent（第二轮） | [c2-day-03.md](notes/c2-day-03.md) |
 | 4 | 2026-11-01 | Function Calling / Tool Use（第二轮） | [c2-day-04.md](notes/c2-day-04.md) |
 | 5 | 2026-11-02 | 工具设计（第二轮） | [c2-day-05.md](notes/c2-day-05.md) |
+| 6 | 2026-11-03 | ReAct（第二轮） | [c2-day-06.md](notes/c2-day-06.md) |
