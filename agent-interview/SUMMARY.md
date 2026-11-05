@@ -46,3 +46,4 @@
 * [Day 05 · 工具设计（第二轮）](notes/c2-day-05.md)
 * [Day 06 · ReAct（第二轮）](notes/c2-day-06.md)
 * [Day 07 · 规划（第二轮）](notes/c2-day-07.md)
+* [Day 08 · 反思与自我纠错（第二轮）](notes/c2-day-08.md)

@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 8
+next_day: 9
 cycle: 2
-last_run: 2026-11-04
+last_run: 2026-11-05
 
 ## 你的反馈
 
@@ -62,3 +62,4 @@ last_run: 2026-11-04
 | 5 | 2026-11-02 | 工具设计（第二轮） | [c2-day-05.md](notes/c2-day-05.md) |
 | 6 | 2026-11-03 | ReAct（第二轮） | [c2-day-06.md](notes/c2-day-06.md) |
 | 7 | 2026-11-04 | 规划（第二轮） | [c2-day-07.md](notes/c2-day-07.md) |
+| 8 | 2026-11-05 | 反思与自我纠错（第二轮） | [c2-day-08.md](notes/c2-day-08.md) |
