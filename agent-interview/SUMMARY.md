@@ -47,3 +47,4 @@
 * [Day 06 · ReAct（第二轮）](notes/c2-day-06.md)
 * [Day 07 · 规划（第二轮）](notes/c2-day-07.md)
 * [Day 08 · 反思与自我纠错（第二轮）](notes/c2-day-08.md)
+* [Day 09 · 记忆机制（第二轮）](notes/c2-day-09.md)
