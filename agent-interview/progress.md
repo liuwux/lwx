@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 11
+next_day: 12
 cycle: 2
-last_run: 2026-11-07
+last_run: 2026-11-08
 
 ## 你的反馈
 
@@ -65,3 +65,4 @@ last_run: 2026-11-07
 | 8 | 2026-11-05 | 反思与自我纠错（第二轮） | [c2-day-08.md](notes/c2-day-08.md) |
 | 9 | 2026-11-06 | 记忆机制（第二轮） | [c2-day-09.md](notes/c2-day-09.md) |
 | 10 | 2026-11-07 | RAG 基础（第二轮） | [c2-day-10.md](notes/c2-day-10.md) |
+| 11 | 2026-11-08 | RAG 进阶（第二轮） | [c2-day-11.md](notes/c2-day-11.md) |

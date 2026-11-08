@@ -49,3 +49,4 @@
 * [Day 08 · 反思与自我纠错（第二轮）](notes/c2-day-08.md)
 * [Day 09 · 记忆机制（第二轮）](notes/c2-day-09.md)
 * [Day 10 · RAG 基础（第二轮）](notes/c2-day-10.md)
+* [Day 11 · RAG 进阶（第二轮）](notes/c2-day-11.md)
