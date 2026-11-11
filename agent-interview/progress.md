@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 14
+next_day: 15
 cycle: 2
-last_run: 2026-11-10
+last_run: 2026-11-11
 
 ## 你的反馈
 
@@ -68,3 +68,4 @@ last_run: 2026-11-10
 | 11 | 2026-11-08 | RAG 进阶（第二轮） | [c2-day-11.md](notes/c2-day-11.md) |
 | 12 | 2026-11-09 | Agentic RAG（第二轮） | [c2-day-12.md](notes/c2-day-12.md) |
 | 13 | 2026-11-10 | 上下文工程（第二轮） | [c2-day-13.md](notes/c2-day-13.md) |
+| 14 | 2026-11-11 | MCP 协议（第二轮） | [c2-day-14.md](notes/c2-day-14.md) |
