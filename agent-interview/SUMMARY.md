@@ -53,3 +53,4 @@
 * [Day 12 · Agentic RAG（第二轮）](notes/c2-day-12.md)
 * [Day 13 · 上下文工程（第二轮）](notes/c2-day-13.md)
 * [Day 14 · MCP 协议（第二轮）](notes/c2-day-14.md)
+* [Day 15 · Agent 间通信（第二轮）](notes/c2-day-15.md)
