@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 16
+next_day: 17
 cycle: 2
-last_run: 2026-11-12
+last_run: 2026-11-13
 
 ## 你的反馈
 
@@ -70,3 +70,4 @@ last_run: 2026-11-12
 | 13 | 2026-11-10 | 上下文工程（第二轮） | [c2-day-13.md](notes/c2-day-13.md) |
 | 14 | 2026-11-11 | MCP 协议（第二轮） | [c2-day-14.md](notes/c2-day-14.md) |
 | 15 | 2026-11-12 | Agent 间通信（第二轮） | [c2-day-15.md](notes/c2-day-15.md) |
+| 16 | 2026-11-13 | 多智能体架构（第二轮） | [c2-day-16.md](notes/c2-day-16.md) |

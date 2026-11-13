@@ -54,3 +54,4 @@
 * [Day 13 · 上下文工程（第二轮）](notes/c2-day-13.md)
 * [Day 14 · MCP 协议（第二轮）](notes/c2-day-14.md)
 * [Day 15 · Agent 间通信（第二轮）](notes/c2-day-15.md)
+* [Day 16 · 多智能体架构（第二轮）](notes/c2-day-16.md)
