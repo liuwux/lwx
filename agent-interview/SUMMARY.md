@@ -55,3 +55,4 @@
 * [Day 14 · MCP 协议（第二轮）](notes/c2-day-14.md)
 * [Day 15 · Agent 间通信（第二轮）](notes/c2-day-15.md)
 * [Day 16 · 多智能体架构（第二轮）](notes/c2-day-16.md)
+* [Day 17 · LangGraph（第二轮）](notes/c2-day-17.md)
