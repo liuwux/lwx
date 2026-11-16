@@ -57,3 +57,4 @@
 * [Day 16 · 多智能体架构（第二轮）](notes/c2-day-16.md)
 * [Day 17 · LangGraph（第二轮）](notes/c2-day-17.md)
 * [Day 18 · 框架对比（第二轮）](notes/c2-day-18.md)
+* [Day 19 · Code Agent 与 Computer Use（第二轮）](notes/c2-day-19.md)
