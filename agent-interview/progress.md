@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 20
+next_day: 21
 cycle: 2
-last_run: 2026-11-16
+last_run: 2026-11-17
 
 ## 你的反馈
 
@@ -74,3 +74,4 @@ last_run: 2026-11-16
 | 17 | 2026-11-14 | LangGraph（第二轮） | [c2-day-17.md](notes/c2-day-17.md) |
 | 18 | 2026-11-15 | 框架对比（第二轮） | [c2-day-18.md](notes/c2-day-18.md) |
 | 19 | 2026-11-16 | Code Agent 与 Computer Use（第二轮） | [c2-day-19.md](notes/c2-day-19.md) |
+| 20 | 2026-11-17 | 结构化输出与校验（第二轮） | [c2-day-20.md](notes/c2-day-20.md) |
