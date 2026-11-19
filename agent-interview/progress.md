@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 22
+next_day: 23
 cycle: 2
-last_run: 2026-11-18
+last_run: 2026-11-19
 
 ## 你的反馈
 
@@ -76,3 +76,4 @@ last_run: 2026-11-18
 | 19 | 2026-11-16 | Code Agent 与 Computer Use（第二轮） | [c2-day-19.md](notes/c2-day-19.md) |
 | 20 | 2026-11-17 | 结构化输出与校验（第二轮） | [c2-day-20.md](notes/c2-day-20.md) |
 | 21 | 2026-11-18 | 评测（第二轮） | [c2-day-21.md](notes/c2-day-21.md) |
+| 22 | 2026-11-19 | 可观测性（第二轮） | [c2-day-22.md](notes/c2-day-22.md) |

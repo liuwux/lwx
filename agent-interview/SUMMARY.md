@@ -60,3 +60,4 @@
 * [Day 19 · Code Agent 与 Computer Use（第二轮）](notes/c2-day-19.md)
 * [Day 20 · 结构化输出与校验（第二轮）](notes/c2-day-20.md)
 * [Day 21 · 评测（第二轮）](notes/c2-day-21.md)
+* [Day 22 · 可观测性（第二轮）](notes/c2-day-22.md)
