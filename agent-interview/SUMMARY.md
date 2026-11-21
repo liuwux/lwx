@@ -62,3 +62,4 @@
 * [Day 21 · 评测（第二轮）](notes/c2-day-21.md)
 * [Day 22 · 可观测性（第二轮）](notes/c2-day-22.md)
 * [Day 23 · 安全（第二轮）](notes/c2-day-23.md)
+* [Day 24 · 护栏与人在回路（第二轮）](notes/c2-day-24.md)
