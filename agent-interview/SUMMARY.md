@@ -67,3 +67,4 @@
 * [Day 26 · 部署与生产化（第二轮）](notes/c2-day-26.md)
 * [Day 27 · 模型适配（第二轮）](notes/c2-day-27.md)
 * [Day 28 · 端侧与移动端 Agent（第二轮）](notes/c2-day-28.md)
+* [Day 29 · 系统设计题（一）：企业客服 Agent（第二轮）](notes/c2-day-29.md)

@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 29
+next_day: 30
 cycle: 2
-last_run: 2026-11-25
+last_run: 2026-11-26
 
 ## 你的反馈
 
@@ -83,3 +83,4 @@ last_run: 2026-11-25
 | 26 | 2026-11-23 | 部署与生产化（第二轮） | [c2-day-26.md](notes/c2-day-26.md) |
 | 27 | 2026-11-24 | 模型适配（第二轮） | [c2-day-27.md](notes/c2-day-27.md) |
 | 28 | 2026-11-25 | 端侧与移动端 Agent（第二轮） | [c2-day-28.md](notes/c2-day-28.md) |
+| 29 | 2026-11-26 | 系统设计题（一）：企业客服 Agent（第二轮） | [c2-day-29.md](notes/c2-day-29.md) |
