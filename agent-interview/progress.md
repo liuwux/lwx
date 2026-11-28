@@ -1,8 +1,8 @@
 # 学习进度
 
-next_day: 1
+next_day: 2
 cycle: 3
-last_run: 2026-11-27
+last_run: 2026-11-28
 
 ## 你的反馈
 
@@ -85,3 +85,4 @@ last_run: 2026-11-27
 | 28 | 2026-11-25 | 端侧与移动端 Agent（第二轮） | [c2-day-28.md](notes/c2-day-28.md) |
 | 29 | 2026-11-26 | 系统设计题（一）：企业客服 Agent（第二轮） | [c2-day-29.md](notes/c2-day-29.md) |
 | 30 | 2026-11-27 | 系统设计题（二）+ 总复习：Coding / 深度研究 Agent（第二轮） | [c2-day-30.md](notes/c2-day-30.md) |
+| 1 | 2026-11-28 | LLM 基础（第三轮） | [c3-day-01.md](notes/c3-day-01.md) |
